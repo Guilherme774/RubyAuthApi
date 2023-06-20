@@ -7,7 +7,7 @@ Back-end for an Auth API
 > Current Working: Done ✅
 <br>
 
-### This is a simple Ecommerce Ruby on Rails Back-end project developed for study purpose.
+### This is a simple authentication Ruby on Rails Back-end project developed for study purpose.
 
 ### That is a simple but very powerfull project and i tried to use the best developments, git and clean code practices.
 

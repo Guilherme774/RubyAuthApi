@@ -1,24 +1,43 @@
-# README
+# 🔒RubyAuthAPI with JWT
+Back-end for an Auth API
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
+> Project Status: Finished ✅
+> <br>
+> Current Working: Done ✅
+<br>
 
-* Ruby version
+### This is a simple Ecommerce Ruby on Rails Back-end project developed for study purpose.
 
-* System dependencies
+### That is a simple but very powerfull project and i tried to use the best developments, git and clean code practices.
 
-* Configuration
+### I performed the entire development flow, from the entity diagrams to the code itself, to get as close as possible to a real project.
 
-* Database creation
+<br>
 
-* Database initialization
+## Features used:
 
-* How to run the test suite
+<table>
+  <tr>
+    <td>Ruby</td>
+    <td>Ruby on Rails</td>
+    <td>BCrypt</td>
+    <td>JWT</td>
+  </tr>
+  <tr>
+    <td>3.2.2</td>
+    <td>7.0.5</td>
+    <td>3.1.7</td>
+    <td>2.7.0</td>
+  </tr>
+<table>
 
-* Services (job queues, cache servers, search engines, etc.)
+<br>
 
-* Deployment instructions
+## How to run the APP:
 
-* ...
+1. Clone this repository
+2. Install Ruby and Ruby on Rails
+3. Run bundle install
+4. Run "rails db:create db:migrate"
+5. Run "rails s"
